@@ -19,5 +19,20 @@ public class main {
         System.out.println();
         System.out.println("GENERATION " + (g-1));
         gameOfLife.showGame(g-1);
+        runGameContinuously(g, gameOfLife);
+    }
+
+    public static void runGameContinuously(int gens, GameOfLife gameOfLife){
+        Scanner in = new Scanner(System.in);
+        while(true){
+            System.out.println("Get specific generation:");
+            int gen = in.nextInt();
+            if(gen < 0 || gen > gens-1){
+                System.out.println("Input invalid, please try again.");
+            }else{
+                System.out.println("GENERATION " + (gen));
+                gameOfLife.showGame(gen);
+            }
+        }
     }
 }

@@ -1,4 +1,5 @@
 import java.util.Random;
+import java.util.ArrayList;
 
 import static java.lang.String.valueOf;
 import static java.lang.Thread.sleep;
@@ -6,7 +7,6 @@ import static java.lang.Thread.sleep;
 public class GameOfLife {
     private int vertical, horizontal;
     private int [] [] [] generation;
-
     GameOfLife(int vertical, int horizontal, int generations) {
         this.setSize(vertical, horizontal, generations);
         this.setupGame();
