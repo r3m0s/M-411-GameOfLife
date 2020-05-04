@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c126df3a-6082-4e25-82e2-5267b7e6dd36" name="Default Changelist" comment="Docs hinzugefügt">
-      <change afterPath="$PROJECT_DIR$/docs/AB411-05.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Aufgabenstellungen M411 WayUp.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Herausforderungen GOL.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/M-411-GameOfLife.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/M-411-GameOfLife.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c126df3a-6082-4e25-82e2-5267b7e6dd36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/Modulplanung M411 WayUp 2020 Q4.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -24,10 +20,15 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Dokumente\02-Semester\iet-411\Projekt\M-411-GameOfLife\docs" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587987073399</updated>
       <workItem from="1587987074630" duration="515000" />
-      <workItem from="1588583910770" duration="1366000" />
+      <workItem from="1588583910770" duration="2397000" />
     </task>
     <task id="LOCAL-00001" summary="Gruppenmitglieder hinzugefügt">
       <created>1587987320666</created>
@@ -75,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587987320666</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Docs hinzugefügt">
+      <created>1588585284000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588585284000</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Gruppenmitglieder hinzugefügt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gruppenmitglieder hinzugefügt" />
+    <MESSAGE value="Docs hinzugefügt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Docs hinzugefügt" />
   </component>
 </project>

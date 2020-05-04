@@ -20,7 +20,9 @@ Projekt Modul 411
 ### Unterlagen des Auftrags
 [Arbeitsauftrag](docs/AB411-05.pdf)<br/>
 [Zeitplan inkl. Bewertungsraster](docs/Aufgabenstellungen%20M411%20WayUp.docx)<br/>
-[Herausforderungen GameOfLife](docs/Herausforderungen%20GOL.txt)
+[Herausforderungen GameOfLife](docs/Herausforderungen%20GOL.txt)<br/>
+[Modulplanung](docs/Modulplanung%20M411%20WayUp%202020%20Q4.docx)
+
 
 #### Gruppe
 Degel Darius <br/>
