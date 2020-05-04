@@ -49,7 +49,10 @@ public class GameOfLife {
         for (int x = 0; x < vertical; x++) {
             for (int y = 0; y < horizontal; y++) {
                 int element = generation[x][y][t];
-                System.out.print(element + "  ");
+                String icon;
+                if (element == 1) icon = "■";
+                else icon = "□";
+                System.out.print(icon + "  ");
             }
             System.out.println();
         }

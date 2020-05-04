@@ -1,7 +1,14 @@
+import javax.swing.*;
 import java.util.Scanner;
 
 public class main {
     public static void main(String[] args) throws InterruptedException {
+//        JFrame gui = new JFrame("GameOfLifeGUI");
+//        gui.setContentPane(new GameOfLifeGUI().panel);
+//        gui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//        gui.pack();
+//        gui.setVisible(true);
+
         Scanner in = new Scanner(System.in);
         System.out.println("Vertical: ");
         int v = in.nextInt();
